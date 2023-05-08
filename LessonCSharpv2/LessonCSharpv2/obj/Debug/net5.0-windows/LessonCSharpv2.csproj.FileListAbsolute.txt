@@ -1,0 +1,44 @@
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.exe
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.deps.json
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.runtimeconfig.json
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.dll
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.pdb
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Form1.resources
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Form2.resources
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Form3.resources
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.AssemblyInfo.cs
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.dll
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\refint\LessonCSharpv2.dll
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.pdb
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.genruntimeconfig.cache
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\ref\LessonCSharpv2.dll
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Open.resources
+C:\Users\Админ\source\repos\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Save.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.exe
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.deps.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\bin\Debug\net5.0-windows\LessonCSharpv2.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Form2.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Form3.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Open.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.Save.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\refint\LessonCSharpv2.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\LessonCSharpv2.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Множество окон\LessonCSharpv2\LessonCSharpv2\obj\Debug\net5.0-windows\ref\LessonCSharpv2.dll

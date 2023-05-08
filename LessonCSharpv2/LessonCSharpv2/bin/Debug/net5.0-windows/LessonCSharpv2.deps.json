@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LessonCSharpv2/1.0.0": {
+        "runtime": {
+          "LessonCSharpv2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LessonCSharpv2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
